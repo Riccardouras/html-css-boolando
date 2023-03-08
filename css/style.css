@@ -25,6 +25,7 @@ a {
     text-decoration: none;
     margin: 0 9px;
     color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
 }
 a:hover{
     text-decoration: underline;
@@ -49,6 +50,52 @@ a:hover{
     margin-left: 11%;
 }
 
+.visible{
+    position: absolute;
+    top: 13%;
+}
+.hov:hover{
+    position: relative;
+}
+.visible2{
+    position: absolute;
+    right: 39%;
+    top: 13%;
+}
+.hov2:hover{
+    position: relative;
+}
+.visible3{
+    position: absolute;
+    top: 13%;
+    right: 14%;
+}
+.hov3:hover{
+    position: relative;
+}
+.visible4{
+    position: absolute;
+    top: 83%;
+}
+.hov4:hover{
+    position: relative;
+}
+.visible5{
+    position: absolute;
+    top: 83%;
+    right: 39%;
+}
+.hov5:hover{
+    position: relative;
+}
+.visible6{
+    position: absolute;
+    top: 83%;
+    right: 14%;
+}
+.hov6:hover{
+    position: relative;
+}
 .flex2 img{
     width: 450px;
     margin: 8px;
