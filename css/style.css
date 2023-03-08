@@ -152,6 +152,42 @@ a:hover{
     left: 64.5%;
     top: 1424px;
 }
+.p1{
+    position: absolute;
+    top: 15%;
+    left: 32.8%;
+}
+.p2{
+    position: absolute;
+    top: 15%;
+    left: 58%;
+}
+.p3{
+    position: absolute;
+    top: 15%;
+    left: 83%;
+}
+.p4{
+    position: absolute;
+    top: 85%;
+    left: 32.8%
+}
+.p5{
+    position: absolute;
+    top: 85%;
+    left: 58%;
+}
+.p6{
+    position: absolute;
+    top: 85%;
+    left: 83%;
+}
+.border{
+    border: #1a1a1a 1px none;
+    background-color: whitesmoke;
+    padding: 1%;
+    height: 6%;
+}
 .flex3 {
     display: flex ;
     justify-content: space-around;
