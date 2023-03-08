@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0S;
+}
+
+header {
+    width: 100%;
+    min-height: 70px;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bgOrange {
+    background-color: #ff6900;
+    height: 100%;
+    width: calc(100% / 3);
+    height: 70px;
+}
+a {
+    text-decoration: none;
+    margin: 0 9px;
+    color: whitesmoke;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+.bgOrange img{
+    height: 46%;
+}
+.bgOrange i{
+    margin: 0 10px;
+    color: whitesmoke;
+}
+
