@@ -21,6 +21,12 @@ header {
     width: calc(100% / 3);
     height: 70px;
 }
+.BgRed {
+    background-color: #ff0000;
+}
+.BgGreen{
+    background-color: #008000;
+}
 a {
     text-decoration: none;
     margin: 0 9px;
@@ -99,6 +105,52 @@ a:hover{
 .flex2 img{
     width: 450px;
     margin: 8px;
+}
+.outlet{
+    position: absolute;
+    height: 25px;
+    width: 55px;
+    color: whitesmoke;
+    font-family: arial;
+}
+.outlet2{
+    position: absolute;
+    height: 25px;
+    width: 6%;
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pos1 {
+    left: 212px;
+    top: 756px;
+}
+.pos2{
+    left: 36.4%;
+    top: 756px;
+}
+.pos3{
+    left: 61.4%;
+     top: 756px;
+}
+.pos4{
+    top: 1424px;
+    left: 11.4%;
+}
+.pos6{
+    left: 61.4%;
+    top: 1424px;
+}
+.posit1{
+    top: 756px;
+    left: 14.5%;
+}
+.posit2{
+    left: 14.5%;
+    top: 1424px;
+}
+.posit3{
+    left: 64.5%;
+    top: 1424px;
 }
 .flex3 {
     display: flex ;
